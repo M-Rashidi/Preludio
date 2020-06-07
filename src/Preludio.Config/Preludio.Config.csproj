@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="castle.core" Version="4.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Preludio.Application.Contracts\Preludio.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Preludio.Application\Preludio.Application.csproj" />
+    <ProjectReference Include="..\Preludio.Core\Preludio.Core.csproj" />
+    <ProjectReference Include="..\Preludio.Domain.Model\Preludio.Domain.Model.csproj" />
+    <ProjectReference Include="..\Preludio.Query\Preludio.Query.csproj" />
+  </ItemGroup>
+
+</Project>

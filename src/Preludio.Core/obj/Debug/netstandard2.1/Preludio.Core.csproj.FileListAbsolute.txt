@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\bin\Debug\netstandard2.1\Preludio.Core.deps.json
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\bin\Debug\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\bin\Debug\netstandard2.1\Preludio.Core.pdb
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\bin\Debug\netstandard2.1\Preludio.Core.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\bin\Debug\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\bin\Debug\netstandard2.1\Preludio.Core.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Debug\netstandard2.1\Preludio.Core.pdb

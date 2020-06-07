@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\bin\Release\netstandard2.1\Preludio.DataAccess.Query.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\bin\Release\netstandard2.1\Preludio.DataAccess.Query.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\bin\Release\netstandard2.1\Preludio.DataAccess.Query.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\obj\Release\netstandard2.1\Preludio.DataAccess.Query.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\obj\Release\netstandard2.1\Preludio.DataAccess.Query.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\obj\Release\netstandard2.1\Preludio.DataAccess.Query.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess.Query\obj\Release\netstandard2.1\Preludio.DataAccess.Query.pdb

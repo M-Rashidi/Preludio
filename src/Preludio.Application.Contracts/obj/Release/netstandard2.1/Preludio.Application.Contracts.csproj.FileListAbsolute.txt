@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\bin\Release\netstandard2.1\Preludio.Application.Contracts.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\bin\Release\netstandard2.1\Preludio.Application.Contracts.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\bin\Release\netstandard2.1\Preludio.Application.Contracts.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\obj\Release\netstandard2.1\Preludio.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\obj\Release\netstandard2.1\Preludio.Application.Contracts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\obj\Release\netstandard2.1\Preludio.Application.Contracts.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application.Contracts\obj\Release\netstandard2.1\Preludio.Application.Contracts.pdb

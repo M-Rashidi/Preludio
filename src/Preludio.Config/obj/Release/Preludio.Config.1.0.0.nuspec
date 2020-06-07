@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Preludio.Config</id>
+    <version>1.0.0</version>
+    <authors>Preludio.Config</authors>
+    <owners>Preludio.Config</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Preludio.Application.Contracts" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Preludio.Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Preludio.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Preludio.Domain.Model" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Preludio.Query" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="castle.core" version="4.3.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\source\repos\Preludio\src\Preludio.Config\bin\Release\netstandard2.1\Preludio.Config.dll" target="lib\netstandard2.1\Preludio.Config.dll" />
+  </files>
+</package>

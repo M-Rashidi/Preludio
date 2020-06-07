@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Application.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Application.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Application.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Application.Contracts.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Application.Contracts.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\bin\Release\netstandard2.1\Preludio.Core.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\obj\Release\netstandard2.1\Preludio.Application.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\obj\Release\netstandard2.1\Preludio.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\obj\Release\netstandard2.1\Preludio.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\obj\Release\netstandard2.1\Preludio.Application.csproj.CopyComplete
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\obj\Release\netstandard2.1\Preludio.Application.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Application\obj\Release\netstandard2.1\Preludio.Application.pdb

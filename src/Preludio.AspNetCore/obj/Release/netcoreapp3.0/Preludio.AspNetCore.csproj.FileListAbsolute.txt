@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.AspNetCore.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.AspNetCore.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.AspNetCore.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.DataAccess.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.Core.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\bin\Release\netcoreapp3.0\Preludio.DataAccess.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\obj\Release\netcoreapp3.0\Preludio.AspNetCore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\obj\Release\netcoreapp3.0\Preludio.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\obj\Release\netcoreapp3.0\Preludio.AspNetCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\obj\Release\netcoreapp3.0\Preludio.AspNetCore.csproj.CopyComplete
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\obj\Release\netcoreapp3.0\Preludio.AspNetCore.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.AspNetCore\obj\Release\netcoreapp3.0\Preludio.AspNetCore.pdb

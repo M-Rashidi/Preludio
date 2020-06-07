@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\bin\Release\netstandard2.1\Preludio.Core.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\bin\Release\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\bin\Release\netstandard2.1\Preludio.Core.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Release\netstandard2.1\Preludio.Core.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Release\netstandard2.1\Preludio.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Release\netstandard2.1\Preludio.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Release\netstandard2.1\Preludio.Core.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Core\obj\Release\netstandard2.1\Preludio.Core.pdb

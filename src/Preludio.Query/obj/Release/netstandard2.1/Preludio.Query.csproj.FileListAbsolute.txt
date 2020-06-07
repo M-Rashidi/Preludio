@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\bin\Release\netstandard2.1\Preludio.Query.deps.json
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\bin\Release\netstandard2.1\Preludio.Query.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\bin\Release\netstandard2.1\Preludio.Query.pdb
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\obj\Release\netstandard2.1\Preludio.Query.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\obj\Release\netstandard2.1\Preludio.Query.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\obj\Release\netstandard2.1\Preludio.Query.dll
+C:\Users\Admin\source\repos\Preludio\src\Preludio.Query\obj\Release\netstandard2.1\Preludio.Query.pdb
