@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.AspNetCore\\Preludio.AspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.AspNetCore\\Preludio.AspNetCore.csproj",
       "projectName": "Preludio.AspNetCore",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.AspNetCore\\Preludio.AspNetCore.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.AspNetCore\\Preludio.AspNetCore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.AspNetCore\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.AspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7800,11 +7800,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess\\Preludio.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess\\Preludio.DataAccess.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess\\Preludio.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess\\Preludio.DataAccess.csproj"
             }
           }
         }

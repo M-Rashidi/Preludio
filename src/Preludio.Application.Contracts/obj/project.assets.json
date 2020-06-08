@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj",
       "projectName": "Preludio.Application.Contracts",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

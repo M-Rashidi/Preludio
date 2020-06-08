@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Preludio.Config.Autofac", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D620E2A1-8DA1-41B9-A3CF-83D41DB586A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preludio.DataAccess.Mongo", "src\Preludio.DataAccess.Mongo\Preludio.DataAccess.Mongo.csproj", "{741203CE-1BB7-45C8-A111-1BB9122AE5D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{6E84BED9-48A6-4E07-AA62-CA2EFC020B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E84BED9-48A6-4E07-AA62-CA2EFC020B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E84BED9-48A6-4E07-AA62-CA2EFC020B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741203CE-1BB7-45C8-A111-1BB9122AE5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741203CE-1BB7-45C8-A111-1BB9122AE5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741203CE-1BB7-45C8-A111-1BB9122AE5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741203CE-1BB7-45C8-A111-1BB9122AE5D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +106,7 @@ Global
 		{07A3C60D-F0C4-49AB-968C-006171266E61} = {D620E2A1-8DA1-41B9-A3CF-83D41DB586A6}
 		{4F7F8CB0-7471-49CD-9142-CF5FA8B6E9F7} = {D620E2A1-8DA1-41B9-A3CF-83D41DB586A6}
 		{6E84BED9-48A6-4E07-AA62-CA2EFC020B53} = {D620E2A1-8DA1-41B9-A3CF-83D41DB586A6}
+		{741203CE-1BB7-45C8-A111-1BB9122AE5D2} = {D620E2A1-8DA1-41B9-A3CF-83D41DB586A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B3370761-C9B9-4EF6-802D-EDE891A6EE20}

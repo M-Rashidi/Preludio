@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj",
         "projectName": "Preludio.Core",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj",
         "projectName": "Preludio.Domain.Model",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Domain.Model\\Preludio.Domain.Model.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Domain.Model\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj"
+              "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj"
               }
             }
           }

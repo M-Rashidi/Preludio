@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj",
       "projectName": "Preludio.DataAccess.Query",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.Query\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.Query\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

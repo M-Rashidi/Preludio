@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.Domain.Model\Debug\netstandard2.1\Preludio.Domain.Model.deps.json
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.Domain.Model\Debug\netstandard2.1\Preludio.Domain.Model.dll
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Domain.Model\Debug\netstandard2.1\Preludio.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Domain.Model\Debug\netstandard2.1\Preludio.Domain.Model.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Domain.Model\Debug\netstandard2.1\Preludio.Domain.Model.csproj.CopyComplete
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Domain.Model\Debug\netstandard2.1\Preludio.Domain.Model.dll

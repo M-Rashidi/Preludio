@@ -6068,11 +6068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.EventStore\\Preludio.DataAccess.EventStore.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.EventStore\\Preludio.DataAccess.EventStore.csproj",
       "projectName": "Preludio.DataAccess.EventStore",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.EventStore\\Preludio.DataAccess.EventStore.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.EventStore\\Preludio.DataAccess.EventStore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.EventStore\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.EventStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6092,8 +6092,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj"
             }
           }
         }

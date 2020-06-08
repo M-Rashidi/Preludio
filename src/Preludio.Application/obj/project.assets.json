@@ -146,11 +146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application\\Preludio.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application\\Preludio.Application.csproj",
       "projectName": "Preludio.Application",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application\\Preludio.Application.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application\\Preludio.Application.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -170,11 +170,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Application.Contracts\\Preludio.Application.Contracts.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Core\\Preludio.Core.csproj"
             }
           }
         }

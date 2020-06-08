@@ -5273,11 +5273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config.Autofac\\Preludio.Config.Autofac.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config.Autofac\\Preludio.Config.Autofac.csproj",
       "projectName": "Preludio.Config.Autofac",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config.Autofac\\Preludio.Config.Autofac.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config.Autofac\\Preludio.Config.Autofac.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config.Autofac\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config.Autofac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5297,14 +5297,14 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Config\\Preludio.Config.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.DataAccess.Query\\Preludio.DataAccess.Query.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Query\\Preludio.Query.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\Preludio\\src\\Preludio.Query\\Preludio.Query.csproj"
+            "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Query\\Preludio.Query.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Preludio\\src\\Preludio.Query\\Preludio.Query.csproj"
             }
           }
         }

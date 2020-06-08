@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.deps.json
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.dll
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.csproj.CopyComplete
+C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Config.Autofac\Debug\netstandard2.1\Preludio.Config.Autofac.dll
