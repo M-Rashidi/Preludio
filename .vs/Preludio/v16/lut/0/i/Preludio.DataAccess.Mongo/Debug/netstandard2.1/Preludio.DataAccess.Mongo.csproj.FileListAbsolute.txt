@@ -1,6 +1,5 @@
 C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess.Mongo\Debug\netstandard2.1\Preludio.DataAccess.Mongo.deps.json
 C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess.Mongo\Debug\netstandard2.1\Preludio.DataAccess.Mongo.dll
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Mongo\Debug\netstandard2.1\Preludio.DataAccess.Mongo.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Mongo\Debug\netstandard2.1\Preludio.DataAccess.Mongo.AssemblyInfoInputs.cache
 C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Mongo\Debug\netstandard2.1\Preludio.DataAccess.Mongo.AssemblyInfo.cs
 C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Mongo\Debug\netstandard2.1\Preludio.DataAccess.Mongo.csproj.CopyComplete
