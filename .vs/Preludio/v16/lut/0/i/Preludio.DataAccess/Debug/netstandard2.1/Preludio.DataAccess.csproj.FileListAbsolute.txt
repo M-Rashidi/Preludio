@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.deps.json
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.dll
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.AssemblyInfo.cs
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.csproj.CopyComplete
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess\Debug\netstandard2.1\Preludio.DataAccess.dll

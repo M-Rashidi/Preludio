@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.deps.json
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.dll
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.AssemblyInfo.cs
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.csproj.CopyComplete
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.EventStore\Debug\netstandard2.1\Preludio.DataAccess.EventStore.dll

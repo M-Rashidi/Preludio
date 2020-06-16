@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.Application\Debug\netstandard2.1\Preludio.Application.deps.json
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.Application\Debug\netstandard2.1\Preludio.Application.dll
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Application\Debug\netstandard2.1\Preludio.Application.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Application\Debug\netstandard2.1\Preludio.Application.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Application\Debug\netstandard2.1\Preludio.Application.AssemblyInfo.cs
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Application\Debug\netstandard2.1\Preludio.Application.csproj.CopyComplete
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.Application\Debug\netstandard2.1\Preludio.Application.dll

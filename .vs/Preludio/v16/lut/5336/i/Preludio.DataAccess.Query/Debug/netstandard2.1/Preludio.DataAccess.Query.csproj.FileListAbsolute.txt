@@ -1,6 +1,0 @@
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess.Query\Debug\netstandard2.1\Preludio.DataAccess.Query.deps.json
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.DataAccess.Query\Debug\netstandard2.1\Preludio.DataAccess.Query.dll
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Query\Debug\netstandard2.1\Preludio.DataAccess.Query.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Query\Debug\netstandard2.1\Preludio.DataAccess.Query.AssemblyInfo.cs
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Query\Debug\netstandard2.1\Preludio.DataAccess.Query.csproj.CopyComplete
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.DataAccess.Query\Debug\netstandard2.1\Preludio.DataAccess.Query.dll

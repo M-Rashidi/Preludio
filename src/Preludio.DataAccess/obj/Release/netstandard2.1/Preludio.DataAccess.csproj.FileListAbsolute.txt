@@ -1,8 +1,0 @@
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\bin\Release\netstandard2.1\Preludio.DataAccess.deps.json
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\bin\Release\netstandard2.1\Preludio.DataAccess.dll
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\bin\Release\netstandard2.1\Preludio.DataAccess.pdb
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\obj\Release\netstandard2.1\Preludio.DataAccess.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\obj\Release\netstandard2.1\Preludio.DataAccess.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\obj\Release\netstandard2.1\Preludio.DataAccess.AssemblyInfo.cs
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\obj\Release\netstandard2.1\Preludio.DataAccess.dll
-C:\Users\Admin\source\repos\Preludio\src\Preludio.DataAccess\obj\Release\netstandard2.1\Preludio.DataAccess.pdb

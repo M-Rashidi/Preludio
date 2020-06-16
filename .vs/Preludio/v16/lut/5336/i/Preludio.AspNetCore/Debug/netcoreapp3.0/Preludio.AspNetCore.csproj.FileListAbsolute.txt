@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.deps.json
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\b\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.dll
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.AssemblyInfo.cs
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.csproj.CopyComplete
-C:\Users\Admin\source\repos\Preludio\.vs\Preludio\v16\lut\0\i\Preludio.AspNetCore\Debug\netcoreapp3.0\Preludio.AspNetCore.dll
