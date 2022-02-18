@@ -1,6 +1,6 @@
 ﻿namespace Preludio.Domain.Model
 {
-    public abstract class Id<T> : ValueObject<Id<T>>
+    public abstract class Id<T> : ValueObject
     {
         public virtual T DbId { get; private set; }
 

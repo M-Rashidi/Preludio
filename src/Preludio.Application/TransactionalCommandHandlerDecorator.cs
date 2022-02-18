@@ -38,16 +38,7 @@ namespace Preludio.Application
 
         private void AddCommandLog<T>(T command) 
         {
-            //if (ServiceLocator.Current.HasInstance(typeof(ILoggingContext)))
-            //{
-            //    var context = ServiceLocator.Current.GetInstance<ILoggingContext>();
-            //    context.CurrentLog.CommandName = command.GetType().Name;
-            //    context.CurrentLog.CommandParameters = command;
-
-            //    var dbCommand = context.GetCommand();
-            //    _unitOfWork.Enlist(dbCommand);
-            //    dbCommand.ExecuteNonQuery();
-            //}
+          
         }
     }
 }

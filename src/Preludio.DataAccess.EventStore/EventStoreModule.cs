@@ -20,7 +20,7 @@ namespace Preludio.DataAccess.EventStore
         private IEventStoreConnection CreateConnection()
         {
             var connection = EventStoreConnection.Create(_ipEndpoint);
-            connection.ConnectAsync().Wait();   //TODO: make it async-await
+            connection.ConnectAsync().Wait();  
             return connection;
         }
         private void CloseConnection(IEventStoreConnection connection)

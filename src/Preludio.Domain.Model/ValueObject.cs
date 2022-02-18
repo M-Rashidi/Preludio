@@ -1,29 +1,53 @@
-﻿using System;
-using System.Collections.Concurrent;
+﻿using Preludio.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
-using Preludio.Core;
 
 namespace Preludio.Domain.Model
 {
-    public abstract class ValueObject<T> : IValueObject<T> where T : class
+    public abstract class ValueObject : IEquatable<ValueObject>, IValueObject
     {
-        public virtual bool SameValueAs(T valueObject)
+        public static bool operator !=(ValueObject a, ValueObject b)
         {
-            return EqualsBuilder.ReflectionEquals(this, valueObject);
+            if (ReferenceEquals(a, null)) return !ReferenceEquals(b, null);
+            return !a.Equals(b);
         }
 
-        public override bool Equals(object obj)
+        public static bool operator ==(ValueObject a, ValueObject b)
         {
-            if (obj == null) return false;
-            return SameValueAs(obj as T);
+            if (ReferenceEquals(a, null)) return ReferenceEquals(b, null);
+            return a.Equals(b);
         }
 
-        public override int GetHashCode()
+        public abstract IEnumerable<object> EqualityComponents();
+
+        public bool Equals(ValueObject other)
         {
-            return HashCodeBuilder.ReflectionHashCode(this);
+            if (ReferenceEquals(this, other)) return true;
+            if (ReferenceEquals(other, null)) return false;
+            if (this.GetType() != other.GetType()) return false;
+            return this.EqualityComponents().SequenceEqual(other.EqualityComponents());
         }
 
+        public override bool Equals(object other) => this.Equals(other as ValueObject);
+
+        public override int GetHashCode() => this.HashCodeComponents().CombineHashCodes();
+
+        public virtual IEnumerable<object> HashCodeComponents() => this.EqualityComponents();
+
+        public IEnumerable<object> PrimitiveEqualityComponents()
+        {
+            foreach (var component in this.EqualityComponents())
+            {
+                var valueObject = component as ValueObject;
+                if (valueObject == null)
+                    yield return component;
+                else
+                {
+                    foreach (var primitiveComponent in valueObject.PrimitiveEqualityComponents())
+                        yield return primitiveComponent;
+                }
+            }
+        }
     }
 }

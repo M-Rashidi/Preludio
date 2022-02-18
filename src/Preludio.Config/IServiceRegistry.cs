@@ -23,7 +23,5 @@ namespace Preludio.Config
         void RegisterDomainServices(Assembly assembly);
         void RegisterQueryRepositories(Assembly assembly);
         void RegisterNamed<TService>(Func<TService> factory, string name, Action<TService> release = null);
-        void RegisterNamed<TService>(Func<IDependencyResolver, TService> factory, string name, Action<TService> release = null);
-        void SetInterceptorOnType<TInterceptor, TType>() where TInterceptor : IInterceptor;
-    }
+        void RegisterNamed<TService>(Func<IDependencyResolver, TService> factory, string name, Action<TService> release = null);    }
 }

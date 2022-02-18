@@ -9,8 +9,6 @@ namespace Preludio.DataAccess.NH.BaseUserTypes
 {
     public abstract class ListOfImmutableUserTypes<T> : IUserType
     {
-//        public abstract object NullSafeGet(IDataReader rs, string[] names, object owner);
-//        public abstract void NullSafeSet(IDbCommand cmd, object value, int index);
         public abstract SqlType[] SqlTypes { get; }
 
         public new bool Equals(object x, object y)

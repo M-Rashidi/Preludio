@@ -42,9 +42,7 @@ namespace Preludio.Config.Autofac
 
         public void RegisterDecorator(Type service, Type decorator)
         {
-            //check if decorator is generic use below method, otherwise use 'registerdecorator' method
             container.RegisterGenericDecorator(decorator, service, "commandHandler");
-
         }
 
         public void RegisterScoped<TService>(Func<TService> factory, Action<TService> release = null)
@@ -95,11 +93,6 @@ namespace Preludio.Config.Autofac
                 .InstancePerLifetimeScope();
             if (release != null)
                 registration.OnRelease(release);
-        }
-
-        public void SetInterceptorOnType<TInterceptor, TType>() where TInterceptor : IInterceptor
-        {
-            container.RegisterModule(new InterceptionModule(typeof(TInterceptor), typeof(TType)));
         }
 
         public void RegisterCommandHandlers(Assembly assembly)

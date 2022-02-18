@@ -4,7 +4,6 @@ using Preludio.Core;
 
 namespace Preludio.DataAccess.EventStore
 {
-    //TODO: complete this unit of work
     public class FakeUnitOfWork : IUnitOfWork
     {
         public Task Begin()

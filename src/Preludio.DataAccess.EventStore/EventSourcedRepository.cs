@@ -28,7 +28,6 @@ namespace Preludio.DataAccess.EventStore
             var changes = aggregate.GetUncommittedEvents();
             var eventData = EventDataFactory.Create(changes);
             var streamName = GetStreamName(aggregate.Id);
-            //TODO: Use pessimistic concurrency control instead of 'any'
             await _connection.AppendToStreamAsync(streamName, ExpectedVersion.Any, eventData);
         }
 

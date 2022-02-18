@@ -5,7 +5,7 @@ namespace Preludio.Domain.Model
 {
     public static class ValueObjectExtensions
     {
-        public static void Update<T>(this IList<T> currentList, IList<T> list) where T : class, IValueObject<T> 
+        public static void Update<T>(this IList<T> currentList, IList<T> list) where T : class, IValueObject
         {
             var added = list.Except(currentList).ToList();
             var removed = currentList.Except(list).ToList(); ;

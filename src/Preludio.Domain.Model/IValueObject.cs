@@ -1,7 +1,10 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
 namespace Preludio.Domain.Model
 {
-    public interface IValueObject<T> where T : class
+    public interface IValueObject
     {
-        bool SameValueAs(T valueObject);
     }
 }

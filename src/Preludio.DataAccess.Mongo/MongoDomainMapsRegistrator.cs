@@ -8,9 +8,7 @@ namespace Preludio.DataAccess.Mongo
     public static class MongoDomainMapsRegistrator
     {
         public static void RegisterDocumentMaps(Assembly assembly)
-        {
-            //var assembly = Assembly.GetAssembly(typeof(MongoDomainMapsRegistrator));
-            
+        {            
             var classMaps = assembly.GetTypes()
             .Where(t => t.BaseType != null && t.BaseType.IsGenericType &&
               t.BaseType.GetGenericTypeDefinition() == typeof(MongoDbClassMap<>));

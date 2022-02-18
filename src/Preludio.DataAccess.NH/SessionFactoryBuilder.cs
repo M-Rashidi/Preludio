@@ -47,7 +47,6 @@ namespace Preludio.DataAccess.NH
 
         public SessionFactoryBuilder WithListener(ListenerType listenerType, object listenerInstance)
         {
-            //TODO: currently we do not support multiple listeners for a listener type
             _listeners.Add(listenerType, listenerInstance);
             return this;
         }

@@ -17,7 +17,7 @@ namespace Preludio.DataAccess.NH
         public void Register(IServiceRegistry serviceRegistry)
         {
             serviceRegistry.RegisterScoped(CreateConnection);
-            serviceRegistry.RegisterScoped(CreateSession, a=> a.Close()); //we registered it scoped for sandbox
+            serviceRegistry.RegisterScoped(CreateSession, a=> a.Close());
             serviceRegistry.RegisterScoped<IUnitOfWork,NHUnitOfWork>();
             if(InterceptorContainer.IsInterceptorRegistered())
                 serviceRegistry.RegisterScoped(InterceptorContainer.InterceptorType);
